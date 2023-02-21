@@ -1,3 +1,5 @@
+
+
 describe 'creating bears table' do
   let(:db) do
     SQLite3::Database.new(':memory:')
